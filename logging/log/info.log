@@ -1,0 +1,5 @@
+2025-01-09 15:02:25 INFO  [main] c.e.logging.SpringLoggerApplication - Приложение запускается...
+2025-01-09 15:02:25 INFO  [main] c.e.logging.SpringLoggerApplication - Starting SpringLoggerApplication using Java 21.0.5 with PID 9076 (C:\Users\aleya\Desktop\JAVA\logging\logging\build\classes\java\main started by aleya in C:\Users\aleya\Desktop\JAVA\logging)
+2025-01-09 15:02:25 INFO  [main] c.e.logging.SpringLoggerApplication - No active profile set, falling back to 1 default profile: "default"
+2025-01-09 15:02:25 INFO  [main] c.e.logging.SpringLoggerApplication - Started SpringLoggerApplication in 0.678 seconds (process running for 1.035)
+2025-01-09 15:02:25 INFO  [main] c.e.logging.SpringLoggerApplication - Приложение успешно запущено с 0 аргументами.
